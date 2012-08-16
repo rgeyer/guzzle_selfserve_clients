@@ -9,7 +9,7 @@
         {
             "name": "Ryan J. Geyer",
             "email": "me@ryangeyer.com"
-        },
+        }
     ],
     "require": {
         "php": ">=5.3.2",
