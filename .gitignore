@@ -1,0 +1,9 @@
+.DS_STORE
+coverage
+phpunit.xml
+build/guzzle.phar
+build/guzzle-na.phar
+src/Guzzle/CardinalCommerce/
+src/Guzzle/Unfuddle/
+composer.lock
+vendor/.composer

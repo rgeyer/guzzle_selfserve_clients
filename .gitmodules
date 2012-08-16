@@ -1,0 +1,6 @@
+[submodule "src/Guzzle/Aws"]
+	path = src/Guzzle/Aws
+	url = git://github.com/rgeyer/guzzle-aws.git
+[submodule "src/Guzzle/Rs"]
+	path = src/Guzzle/Rs
+	url = git://github.com/rgeyer/rs_guzzle_client.git
